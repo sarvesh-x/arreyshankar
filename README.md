@@ -1,6 +1,5 @@
 ###
 <h1 align="center">Hi, I'm Sarvesh 👋 </h1>
-<img align="right" src="https://visitcount.itsvg.in/api?id=sarvesh-x&icon=0&color=0"></img>
 <h3 align="center">Aspiring Full Stack Developer from India </h3>
 
 ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB on backend
