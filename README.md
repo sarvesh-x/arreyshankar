@@ -51,4 +51,4 @@
 
 ##
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmp0aXRwemI3MTBkMWp0bHlwd3FwMm5vZDJ4NTMwMWU2NTFxZmNweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K20uJQyNnchq0/giphy.gif" width="60"> <em><b>Thanks for visiting my corner of GitHub!</b> If you like what you see, <b>let's build something cool together :) </br></em>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDM3eWFjdXVyNTBreWlkb2xsd3dpb3FxcTF2MXNpeDJ5cHd0M3ZyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Dr1akp2o6tYPdlefd1/giphy.gif" width="60"> <em><b>Thanks for visiting my corner of GitHub!</b> If you like what you see, <b>let's build something cool together :) </br></em>
