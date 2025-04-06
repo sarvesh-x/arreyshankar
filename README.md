@@ -3,10 +3,10 @@
 <img align="right" src="https://visitcount.itsvg.in/api?id=sarvesh-x&icon=0&color=0"></img>
 <h3 align="center">Aspiring Full Stack Developer from India </h3>
 
-❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend
-🤔 I'm currently working on Kubernetes with edge computing.
+❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB on backend
+🤔 I'm currently working on Neural Networks for Image Recognition.
 
-✨ I study: React, Kubernetes, ML, Nodejs
+✨ I study: React, Android, ML, Nodejs
 
 ## About me:
 
@@ -25,6 +25,7 @@
 - 🏆 Discord Chat bots
 - ❤️ API, RESTful API, Postman
 - HTML/CSS, Javascript
+- Android, Firebase, Gradle
 - git, docker, CI/CD
 - SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
 - LocalStorage, SessionStorage, JWT
@@ -49,4 +50,5 @@
 ![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
 
 ##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmE2cTBuenZqdzJrNjh0aG14bTRqNmpiamJtNnIyYWN5eGxqY2NhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ij1WvlilscRFoIRn7u/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
