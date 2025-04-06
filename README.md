@@ -1,7 +1,33 @@
-<h2 align="left">Hi 👋! My name is Sarvesh and I'm a Developer, from India</h2>
-
 ###
+<h1 align="center">Hi, I'm Sarvesh 👋 </h1>
+<img align="right" src="https://visitcount.itsvg.in/api?id=sarvesh-x&icon=0&color=0"></img>
+<h3 align="center">Aspiring Full Stack Developer from India </h3>
 
+❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend
+🤔 I'm currently working on Kubernetes with edge computing.
+
+✨ I study: React, Kubernetes, ML, Nodejs
+
+## About me:
+
+- 😄 Fun fact: I'm a Java developer before, worked in IBM
+- 🔭 I’m looking to collaborate on commercial projects and startups
+- 📫 How to reach me: [Email](sarveshkumar10101@gmail.com)
+- 💬 Ask me about `Frontend` or `Backend`
+
+<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
+
+## Experience:
+
+- 5+ years of experience in React, Node.js, Express.js , async, await
+- 3+ years of experience in Android
+- 1+ years of experience in Machine Learning
+- 🏆 Discord Chat bots
+- ❤️ API, RESTful API, Postman
+- HTML/CSS, Javascript
+- git, docker, CI/CD
+- SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
+- LocalStorage, SessionStorage, JWT
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
