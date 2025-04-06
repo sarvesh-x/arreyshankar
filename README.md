@@ -15,7 +15,7 @@
 - 📫 How to reach me: [Email](sarveshkumar10101@gmail.com)
 - 💬 Ask me about `Frontend` or `Backend`
 
-<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
+<img align="right" src="[https://octodex.github.com/images/welcometocat.png](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJ5OXN1cDdreXc2aWt5ZjAwNGd0d2I0azNvMHJzNm5lbjVtemZuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ou60s0z0v7JzSWGn8C/giphy.gif)" width="300">
 
 ## Experience:
 
