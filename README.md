@@ -51,4 +51,4 @@
 
 ##
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmE2cTBuenZqdzJrNjh0aG14bTRqNmpiamJtNnIyYWN5eGxqY2NhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ij1WvlilscRFoIRn7u/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmp0aXRwemI3MTBkMWp0bHlwd3FwMm5vZDJ4NTMwMWU2NTFxZmNweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K20uJQyNnchq0/giphy.gif" width="60"> <em><b>Thanks for visiting my corner of GitHub!</b> If you like what you see, <b>let's build something cool together :) </br></em>
