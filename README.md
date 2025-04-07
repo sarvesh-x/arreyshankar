@@ -12,7 +12,7 @@
 - 😄 Fun fact: I was a Java developer before
 - 🔭 I’m looking to collaborate on commercial projects and startups
 - 📫 How to reach me: [Email](sarveshkumar10101@gmail.com)
-- 💬 Ask me about `Frontend` or `Backend`
+- 💬 Ask me about `Frontend` , `Backend` or `AI` why not
 <br><br>
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJ5OXN1cDdreXc2aWt5ZjAwNGd0d2I0azNvMHJzNm5lbjVtemZuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ou60s0z0v7JzSWGn8C/giphy.gif" width="300">
 
